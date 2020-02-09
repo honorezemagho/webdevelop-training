@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28858a9f-8cec-48ec-8d17-c9512b1e54f1" name="Default Changelist" comment="" />
+    <list default="true" id="28858a9f-8cec-48ec-8d17-c9512b1e54f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/18.imagesprite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.imageopacity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.gradients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.2Dtransform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.3Dtransform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.transitions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.animations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sticker.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +27,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XXKoN5dXqeHZVLK1RHfG9723Cz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,36 +41,38 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.16.textfont.html">
-    <configuration name="10.Background.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2.CSS/10.Background.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.26.animations.html">
+    <configuration name="22.gradients.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2.CSS/22.gradients.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="16.textfont.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2.CSS/16.textfont.html" useBuiltInWebServerPort="true">
+    <configuration name="23.2Dtransform.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2.CSS/23.2Dtransform.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="5.div&amp;span.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2.CSS/5.div&amp;span.html" useBuiltInWebServerPort="true">
+    <configuration name="24.3Dtransform.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2.CSS/24.3Dtransform.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="7.BMborder.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2.CSS/7.BMborder.html" useBuiltInWebServerPort="true">
+    <configuration name="25.transitions.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2.CSS/25.transitions.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="9.BMmargin.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2.CSS/9.BMmargin.html" useBuiltInWebServerPort="true">
+    <configuration name="26.animations.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2.CSS/26.animations.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.16.textfont.html" />
-        <item itemvalue="JavaScript Debug.10.Background.html" />
-        <item itemvalue="JavaScript Debug.9.BMmargin.html" />
-        <item itemvalue="JavaScript Debug.7.BMborder.html" />
-        <item itemvalue="JavaScript Debug.5.div&amp;span.html" />
+        <item itemvalue="JavaScript Debug.26.animations.html" />
+        <item itemvalue="JavaScript Debug.25.transitions.html" />
+        <item itemvalue="JavaScript Debug.24.3Dtransform.html" />
+        <item itemvalue="JavaScript Debug.23.2Dtransform.html" />
+        <item itemvalue="JavaScript Debug.22.gradients.html" />
       </list>
     </recent_temporary>
   </component>
@@ -67,17 +87,37 @@
       <option name="presentableId" value="Default" />
       <updated>1581187180459</updated>
       <workItem from="1581187208011" duration="9944000" />
+      <workItem from="1581239762901" duration="10252000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="526" y="103" key="IDE.errors.dialog" timestamp="1581240893769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="526" y="103" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1581240893769" />
     <state x="368" y="0" key="SettingsEditor" timestamp="1581195081726">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="368" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1581195081726" />
+    <state x="783" y="100" width="483" height="538" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581240437839">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="783" y="100" width="483" height="538" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1581240437839" />
+    <state x="832" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581239964528">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="832" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1581239964528" />
+    <state x="681" y="159" key="run.anything.popup" timestamp="1581248913093">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="681" y="159" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1581248913093" />
     <state x="687" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1581195443094">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
